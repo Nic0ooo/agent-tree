@@ -1,0 +1,1 @@
+{ "name": "agent-tree", "version": "0.1.0", "description": "Panneau live : arbre des agents et sous-agents, rôle, statut, outil en cours, durée", "types": "./types/index.d.ts" }
